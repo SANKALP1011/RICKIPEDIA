@@ -1,0 +1,21 @@
+PODS:
+  - MGK3DButton (0.1.0)
+
+DEPENDENCIES:
+  - MGK3DButton (from `https://github.com/mohammadghk/MGK3DButton`)
+
+EXTERNAL SOURCES:
+  MGK3DButton:
+    :git: https://github.com/mohammadghk/MGK3DButton
+
+CHECKOUT OPTIONS:
+  MGK3DButton:
+    :commit: 032df781454b152b392a1a0d43e8fe210643e7e4
+    :git: https://github.com/mohammadghk/MGK3DButton
+
+SPEC CHECKSUMS:
+  MGK3DButton: 45498c15afa364760d79054fca91200fd1dd6f13
+
+PODFILE CHECKSUM: 3e8dc070d9504372f9624112483da174a9bdccc4
+
+COCOAPODS: 1.10.1
